@@ -8,7 +8,7 @@ I'm an aspiring **Cyber Security Enthusiast** exploring both **Red Team** and **
 - 🔍 I have a keen interest in understanding the techniques used in penetration testing as well as the methods for defending against cyber threats.
 - 🐍 I enjoy programming in Python and creating automation tools to enhance security processes.
 - 💬 Feel free to reach out to discuss my learning journey or any cybersecurity-related topics!
-- 📫 How to reach me: [Email](mailto:your_email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto:utomoa448@gmail.com) 
 
 ## 🔧 Skills I'm Developing
 
