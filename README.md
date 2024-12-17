@@ -14,16 +14,15 @@
 <br>
 
 ```	
-	- 🔒 Cybersecurity Enthusiast  
-	- 🛡️ Versatile in both Blue Team (defense) and Red Team (offense) roles.  
-	- 🌱 Currently exploring advanced techniques in Threat Detection, Incident Response, and Ethical Hacking.  
-	- 🔭 Working on projects that bridge offensive and defensive security, like vulnerability assessments and penetration testing.  
-	- 🧠 Always learning: diving into SOC analysis, malware analysis, and web application security.  
-	- 🥅 2024 Goals: Compete in more CTF challenges, refine red/blue team skills, and contribute to open-source security projects.  
-	- 💬 Ask me about cybersecurity, threat analysis, or penetration testing—I'd love to discuss and collaborate!    
-	- 🧗 Constantly pushing boundaries to understand and mitigate cyber threats from every angle.  
-	- ⚡ Fun fact: I enjoy solving puzzles, especially when it involves cracking and defending systems!  
-
+- 🔒 Cybersecurity Enthusiast  
+- 🛡️ Versatile in both Blue Team (defense) and Red Team (offense) roles.  
+- 🌱 Currently exploring advanced techniques in Threat Detection, Incident Response, and Ethical Hacking.  
+- 🔭 Working on projects that bridge offensive and defensive security, like vulnerability assessments and penetration testing.  
+- 🧠 Always learning: diving into SOC analysis, malware analysis, and web application security.  
+- 🥅 2024 Goals: Compete in more CTF challenges, refine red/blue team skills, and contribute to open-source security projects.  
+- 💬 Ask me about cybersecurity, threat analysis, or penetration testing—I'd love to discuss and collaborate!    
+- 🧗 Constantly pushing boundaries to understand and mitigate cyber threats from every angle.  
+- ⚡ Fun fact: I enjoy solving puzzles, especially when it involves cracking and defending systems!  
 
 ```
 
